@@ -6,7 +6,7 @@
 
   <groupId>io.github.maple8192</groupId>
   <artifactId>Economics</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.2</version>
   <packaging>jar</packaging>
 
   <name>Economics</name>
